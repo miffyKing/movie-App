@@ -8,7 +8,7 @@ import RegisterPage from "./views/RegisterPage/RegisterPage.js";
 import NavBar from "./views/NavBar/NavBar";
 import Footer from "./views/Footer/Footer"
 import MovieDetail from "./views/MovieDetail/MovieDetail";
-
+//import FavoritePage from "./views/FavoritePage/FavoritePage";
 //null   Anyone Can go inside
 //true   only logged in user can go inside
 //false  logged in user can't go inside
