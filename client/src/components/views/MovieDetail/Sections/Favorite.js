@@ -20,7 +20,7 @@ function Favorite(props) {
         movieId: movieId,
         movieTitle: movieTitle,
         moviePost: moviePost,
-        movieRunTime: movieRunTime
+        movieRunTime: movieRunTime,
 
     }
 
